@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag1 on Hugo Theme Dream</title>
+    <link>https://dwh20010724.github.io/tags/tag1/</link>
+    <description>Recent content in Tag1 on Hugo Theme Dream</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 06 Apr 2025 17:25:52 +0800</lastBuildDate>
+    <atom:link href="https://dwh20010724.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://dwh20010724.github.io/posts/first/</link>
+      <pubDate>Sun, 06 Apr 2025 17:25:52 +0800</pubDate>
+      <guid>https://dwh20010724.github.io/posts/first/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
