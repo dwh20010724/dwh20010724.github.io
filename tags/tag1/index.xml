@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag1 on Hugo Theme Dream</title>
+    <link>https://dwh20010724.github.io/tags/tag1/</link>
+    <description>Recent content in Tag1 on Hugo Theme Dream</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 07 Apr 2025 00:17:46 +0800</lastBuildDate>
+    <atom:link href="https://dwh20010724.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newnew</title>
+      <link>https://dwh20010724.github.io/posts/newnew/</link>
+      <pubDate>Mon, 07 Apr 2025 00:17:46 +0800</pubDate>
+      <guid>https://dwh20010724.github.io/posts/newnew/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hihihihi</title>
+      <link>https://dwh20010724.github.io/posts/hihihihi/</link>
+      <pubDate>Sun, 06 Apr 2025 22:43:58 +0800</pubDate>
+      <guid>https://dwh20010724.github.io/posts/hihihihi/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>https://dwh20010724.github.io/posts/hello/</link>
+      <pubDate>Sun, 06 Apr 2025 22:40:31 +0800</pubDate>
+      <guid>https://dwh20010724.github.io/posts/hello/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test Auto2</title>
+      <link>https://dwh20010724.github.io/posts/test-auto2/</link>
+      <pubDate>Sun, 06 Apr 2025 22:21:09 +0800</pubDate>
+      <guid>https://dwh20010724.github.io/posts/test-auto2/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>https://dwh20010724.github.io/posts/second/</link>
+      <pubDate>Sun, 06 Apr 2025 21:10:13 +0800</pubDate>
+      <guid>https://dwh20010724.github.io/posts/second/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://dwh20010724.github.io/posts/first/</link>
+      <pubDate>Sun, 06 Apr 2025 17:25:52 +0800</pubDate>
+      <guid>https://dwh20010724.github.io/posts/first/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
